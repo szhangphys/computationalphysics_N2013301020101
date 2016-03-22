@@ -18,7 +18,7 @@ _computationalphysics_N2013301020101_
 [第一问算法](https://github.com/whuerZS/computationalphysics_N2013301020101/blob/master/Chapter1/Ex1-6.1.py)
  ；以及同时考虑出生及死亡
 [第二问算法](https://github.com/whuerZS/computationalphysics_N2013301020101/blob/master/Chapter1/Ex1-6.1.py) ,分别编程以及import Matplotlib作图，并对图进行修饰。
-第一章作业数据：[Chapter1](https://github.com/whuerZS/computationalphysics_N2013301020101/tree/master/Chapter1)
+第一章作业文件夹：[Chapter1](https://github.com/whuerZS/computationalphysics_N2013301020101/tree/master/Chapter1)
 
 获得数据：[第一问数据](https://github.com/whuerZS/computationalphysics_N2013301020101/blob/master/Chapter1/1-6.1.txt)
 
