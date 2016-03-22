@@ -14,17 +14,21 @@ _computationalphysics_N2013301020101_
 ####背景介绍：
 选择书上1.6题，为人口增长问题，使用Matplotlib对所得的点进行绘图。
 ####正文：
-利用Euler method进行编程计算，根据初始人口选择合适的参数a,b。题目中两问分别是：1，只考虑出生[第一问]（https://github.com/whuerZS/computationalphysics_N2013301020101/blob/master/Chapter1/Ex1-6.1.py）；以及同时考虑出生及死亡[第二问](https://github.com/whuerZS/computationalphysics_N2013301020101/blob/master/Chapter1/Ex1-6.1.py),分别编程以及import Matplotlib作图
+利用Euler method进行编程计算，根据初始人口选择合适的参数a,b。题目中两问分别是：1，只考虑出生[第一问]（https://github.com/whuerZS/computationalphysics_N2013301020101/blob/master/Chapter1/Ex1-6.1.py）；以及同时考虑出生及死亡[第二问](https://github.com/whuerZS/computationalphysics_N2013301020101/blob/master/Chapter1/Ex1-6.1.py),分别编程以及import Matplotlib作图，并对图进行修饰。
 
 获得数据：[第一问数据](https://github.com/whuerZS/computationalphysics_N2013301020101/blob/master/Chapter1/1-6.1.txt)
-[第二问数据](https://github.com/whuerZS/computationalphysics_N2013301020101/blob/master/Chapter1/1-6.2.txt)
+
+和[第二问数据](https://github.com/whuerZS/computationalphysics_N2013301020101/blob/master/Chapter1/1-6.2.txt)
+
 制图：[1](https://github.com/whuerZS/computationalphysics_N2013301020101/blob/master/Chapter1/figure_6.1.png)
-[2](https://github.com/whuerZS/computationalphysics_N2013301020101/blob/master/Chapter1/figure_6.2.png)
+
+和[2](https://github.com/whuerZS/computationalphysics_N2013301020101/blob/master/Chapter1/figure_6.2.png)
 
 ####结论：
+得到了两组曲线，虽然参数不同，但是考虑死亡率的情形下人口最终达到饱和。
 
 ####致谢：
-感谢老师提供的作业模板。
+感谢蔡浩老师提供的作业模板。
 
 
 
