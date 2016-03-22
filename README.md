@@ -8,5 +8,5 @@ _computationalphysics_N2013301020101_
 ###第三次作业（语法练习）
 做到LV2？，应该算是做到了。
   [作业](https://github.com/whuerZS/computationalphysics_N2013301020101/blob/master/EX1%20LV1-lv2.py) 
-###第一次作业（正式）
-已完成，待写摘要  。
+###第一章作业（正式）
+已完成，待写摘要  。[Chapter1](https://github.com/whuerZS/computationalphysics_N2013301020101/tree/master/Chapter1)
