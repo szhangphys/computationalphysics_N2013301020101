@@ -22,10 +22,10 @@ _computationalphysics_N2013301020101_
 和[第二问数据](https://github.com/whuerZS/computationalphysics_N2013301020101/blob/master/Chapter1/1-6.2.txt)
 
 制图：[1](https://github.com/whuerZS/computationalphysics_N2013301020101/blob/master/Chapter1/figure_6.1.png)
-![tu](https://raw.githubusercontent.com/whuerZS/computationalphysics_N2013301020101/master/Chapter1/figure_6.2.png)
+![tu]()
 
 和[2](https://github.com/whuerZS/computationalphysics_N2013301020101/blob/master/Chapter1/figure_6.2.png)
-![]()
+![](https://raw.githubusercontent.com/whuerZS/computationalphysics_N2013301020101/master/Chapter1/figure_6.2.png)
 
 ####结论：
 得到了两组曲线，虽然参数不同，但是考虑死亡率的情形下人口最终达到饱和。
