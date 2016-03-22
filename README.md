@@ -9,15 +9,16 @@ _computationalphysics_N2013301020101_
 做到LV2？，应该算是做到了。
   [作业](https://github.com/whuerZS/computationalphysics_N2013301020101/blob/master/EX1%20LV1-lv2.py) 
 #第一章作业（正式）
-###摘要：
+####摘要：
 第一章作业通过Euler方法来处理，取最短间隔，一次次迭代得到结果
-###背景介绍：
+####背景介绍：
 选择书上1.6题，为人口增长问题，使用Matplotlib对所得的点进行绘图。
-###正文：
+####正文：
 
-###结论：
 
-###致谢：
+####结论：
+
+####致谢：
 
 
 
