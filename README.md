@@ -13,9 +13,9 @@ _computationalphysics_N2013301020101_
 
 [第一章作业（第二次)](https://github.com/whuerZS/computationalphysics_N2013301020101/blob/master/Chapter1/Chapter1%EF%BC%88%E7%AC%AC%E4%BA%8C%E6%AC%A1%EF%BC%89/%E7%AC%AC%E4%B8%80%E7%AB%A0%E4%BD%9C%E4%B8%9A%EF%BC%88%E7%AC%AC%E4%BA%8C%E6%AC%A1%EF%BC%89.md)
 
-[第二章作业（第一次)](https://github.com/whuerZS/computationalphysics_N2013301020101/blob/master/Chapter2/Chapter2%E7%AC%AC%E4%B8%80%E6%AC%A1/%E7%AC%AC%E4%BA%8C%E7%AB%A0%E4%BD%9C%E4%B8%9A(%E7%AC%AC%E4%B8%80%E6%AC%A1).md)
+[第二章作业（第一次)未完成](https://github.com/whuerZS/computationalphysics_N2013301020101/blob/master/Chapter2/Chapter2%E7%AC%AC%E4%B8%80%E6%AC%A1/%E7%AC%AC%E4%BA%8C%E7%AB%A0%E4%BD%9C%E4%B8%9A(%E7%AC%AC%E4%B8%80%E6%AC%A1).md)
 
-[第二章作业（第二次）]（）
+[第二章作业（第二次）未完成]（https://github.com/whuerZS/computationalphysics_N2013301020101/blob/master/Chapter2/Chapter2%E7%AC%AC%E4%BA%8C%E6%AC%A1/%E7%AC%AC%E4%BA%8C%E7%AB%A0%E4%BD%9C%E4%B8%9A%EF%BC%88%E7%AC%AC%E4%BA%8C%E6%AC%A1%EF%BC%89%2Cmd）
 
 
 
