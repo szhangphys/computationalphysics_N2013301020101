@@ -1,7 +1,7 @@
 from pylab import *
 
 g = 9.8
-b2m = 1e-5
+b2m = 1e-3
 
 class flight_state:
     def __init__(self, _x = 0, _y = 0, _vx = 0, _vy = 0, _t = 0):
@@ -43,16 +43,11 @@ class cannon:
             x.append(fs.x)
             y.append(fs.y)
 
-        plot(x,y,"red")
-        xlabel('l')
-        ylabel('H')
+        plot(x,y,"purple")
+        xlabel('l/m')
+        ylabel('H/m')
         #show()
 
-a = cannon(flight_state(0, 0, 20, 45, 0), _dt = 0.1)
-a.shoot()
-
-a.show_trajectory()
-show()
 
 class drag_cannon(cannon):
     def next_state(self, current_state):
@@ -72,16 +67,17 @@ class drag_cannon(cannon):
             y.append(fs.y)
 
         plot(x,y,"blue")
-        xlabel('l')
-        ylabel('H')
+        xlabel('l/m')
+        ylabel('H/m')
         #show()
 
 
 
-
-b = drag_cannon(flight_state(0, 0, 100, 50, 0), _dt = 0.1)
-b.shoot()
+a = cannon(flight_state(0, 0, 50, 45, 0), _dt = 0.1)
+a.shoot()
 a.show_trajectory()
-
+b = drag_cannon(flight_state(0, 0, 50, 45, 0), _dt = 0.1)
+b.shoot()
 b.show_trajectory()
+
 show()
