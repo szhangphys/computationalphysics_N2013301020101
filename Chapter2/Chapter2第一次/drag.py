@@ -1,7 +1,7 @@
 from pylab import *
 
 g = 9.8
-b2m = 1e-3
+b2m = 1e-5
 
 class flight_state:
     def __init__(self, _x = 0, _y = 0, _vx = 0, _vy = 0, _t = 0):
@@ -46,6 +46,7 @@ class cannon:
         plot(x,y,"purple")
         xlabel('l/m')
         ylabel('H/m')
+        text(400, 90, 'withoutdrag')
         #show()
 
 
@@ -69,6 +70,7 @@ class drag_cannon(cannon):
         plot(x,y,"blue")
         xlabel('l/m')
         ylabel('H/m')
+        text(200, 70, 'withdrag')
         #show()
 
 
