@@ -33,7 +33,7 @@ for q in (-2000,-1000,-200,209, 2000,20000):
 
     trejectory_with.calculate()
     print trejectory_with.x,'\n\n\n',  trejectory_with.y, '\n\n\n', trejectory_with.z
-    plt.plot(trejectory_with.x, trejectory_with.z,label = "$\omega _z$ = "+str(q)+'rad\s')
+    plt.plot(trejectory_with.x, trejectory_with.y,label = "$\omega _z$ = "+str(q)+'rad\s')
     plt.legend(loc="upper right")
     plt.xlabel('x(m)')
     plt.ylabel('y(m)')
