@@ -17,6 +17,8 @@ _computationalphysics_N2013301020101_
 
 [第二章作业（第二次）待续](https://www.zybuluo.com/Homework-/note/370194)
 
+[第三章作业（第八次）...]（）
+
 
 
 
