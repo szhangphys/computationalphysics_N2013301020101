@@ -23,6 +23,13 @@ _computationalphysics_N2013301020101_
 
 [10.第三章作业（第三次）未完成](https://www.zybuluo.com/Homework-/note/404577)
 
+[11.第四章作业（第一次）未完成](https://www.zybuluo.com/Homework-/note/404824)
+
+[12.第四章作业（第二次）未完成](https://www.zybuluo.com/Homework-/note/404824)
+
+[13.第五章作业（第一次）未完成](https://www.zybuluo.com/Homework-/note/404824)
+
+[14.第六章作业（第一次）未完成](https://www.zybuluo.com/Homework-/note/404824)
 
 
 
