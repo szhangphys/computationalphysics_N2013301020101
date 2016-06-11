@@ -21,6 +21,8 @@ _computationalphysics_N2013301020101_
 
 [9.第三章作业（第二次）](https://www.zybuluo.com/Homework-/note/389418)
 
+[10.第三章作业（第三次）](https://www.zybuluo.com/Homework-/note/404577)
+
 
 
 
