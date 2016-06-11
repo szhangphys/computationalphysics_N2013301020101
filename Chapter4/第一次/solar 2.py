@@ -5,7 +5,7 @@ import sys
 reload(sys)
 sys.setdefaultencoding('gb18030')
 class solar:
-    def __init__(self, beta = 3.0, end = 5,  Gms = 4*pi , k=0.5, v_2 = array([0.,-1/1,0.]),pos_1 =array([1.,0.,0.]), pos_2 = array([-1.,0.,0.]), v_1 = array([0.,1.,0.]), dt = .0001 ):
+    def __init__(self, beta = 3.0, end = 5,  Gms = 4*pi , k=0.5, v_2 = array([0.,-1,0.]),pos_1 =array([1.,0.,0.]), pos_2 = array([-1.,0.,0.]), v_1 = array([0.,1.,0.]), dt = .0001 ):
         self.m_1 = Gms
         self.m_2 = k*Gms
         self.beta = beta
@@ -37,13 +37,15 @@ class solar:
             self.y_2.append(self.pos_2[1])
             self.z_2.append(self.pos_2[2])          
  
-binary = solar(beta=3.,k=1)
-binary.calculate()
-plot(binary.x_1,binary.y_1,label="planet $m_{1}$",color='purple')
-plot(binary.x_2,binary.y_2,label="planet $m_{2}$",color='red')
-title("binary in CM")
-xlabel('x/AU')
-ylabel('y/AU')
-legend(loc="best")
-legend(loc = 'best')
-show()
+for n in(5,):
+    binary = solar(beta=n,k=1)
+    binary.calculate()
+    plot(binary.x_1,binary.y_1,label="planet $m_{1}$  $\\beta$="+str(n),color='purple')
+    plot(binary.x_2,binary.y_2,label="planet $m_{2}$  $\\beta$="+str(n),color='red')
+    title("binary in CM ")
+    xlabel('x/AU')
+    ylabel('y/AU')
+    legend(loc="upper righter")
+    legend(loc = 'best')
+    show()
+
