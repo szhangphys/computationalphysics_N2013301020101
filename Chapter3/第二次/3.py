@@ -38,8 +38,8 @@ class Harmonic(object):
 finnal_F_D=[]
 finnal_theta=[]
 F_D0=1.40
-for a in range(1,1000):
-    F_D=F_D0+0.0001*a
+for a in range(1,100):
+    F_D=F_D0+0.001*a
     trejectory = Harmonic(_t=0,_omega=0,_theta=0.2)
     trejectory.calculate()
     print trejectory.t[-1], trejectory.theta[-1],F_D
