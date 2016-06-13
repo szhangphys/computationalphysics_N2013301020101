@@ -29,7 +29,7 @@ _computationalphysics_N2013301020101_
 
 [13.第五章作业（第一次）未完成](https://www.zybuluo.com/Homework-/note/404824)
 
-[14.第六章作业（第一次）未完成](https://www.zybuluo.com/Homework-/note/404824)
+[14.第六章作业（第一次）未完成](https://www.zybuluo.com/Homework-/note/406559)
 
 
 
