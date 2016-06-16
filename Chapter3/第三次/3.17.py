@@ -28,7 +28,7 @@ class lorenz(object):
 			self.y.append(self.y[-1]+y_*self.dt)
 			self.z.append(self.z[-1]+z_*self.dt)
 			if (self.t[-1]<30):
-			     if(abs(self.y[-1]+y_*self.dt)<0.01):
+			     if(abs(self.y[-1]+y_*self.dt)<0.5):
 			     	self.newx.append(self.x[-1]+x_*self.dt)
 			     	self.newz.append(self.z[-1]+z_*self.dt)
 			     else:
@@ -38,7 +38,7 @@ class lorenz(object):
 Phase = lorenz(1,0,0)
 Phase.calculate()
 print Phase.newx[-1],Phase.newz[-1]
-plot(Phase.newx,Phase.newz,',',linewidth=1,)
+plot(Phase.newx,Phase.newz,',',linewidth=2,)
 xlabel('x')
 ylabel('z')
 
