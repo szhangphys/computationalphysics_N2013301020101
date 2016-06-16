@@ -6,7 +6,7 @@ reload(sys)
 sys.setdefaultencoding('gb18030')
 
 class lorenz(object):
-	def __init__(self,_x,_y,_z,sigma=10.0,r=163.8,b=2.0,):
+	def __init__(self,_x,_y,_z,sigma=10.0,r=140,b=2.0,):
 		self.x=[_x]
 		self.y=[_y]
 		self.z=[_z]
