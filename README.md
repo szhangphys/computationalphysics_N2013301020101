@@ -31,7 +31,7 @@ _computationalphysics_N2013301020101_
 
 [14.第六章作业（第一次）](https://www.zybuluo.com/Homework-/note/406559)
 
-[15.期末论文](https://www.zybuluo.com/Homework-/note/406559)
+[15.期末论文](https://github.com/whuerZS/computationalphysics_N2013301020101/blob/1f7152425bf7c8ba3cef54a30459e1d7e42d8e2b/%E6%9C%9F%E6%9C%AB%E8%AE%BA%E6%96%87/%E6%9C%9F%E6%9C%AB%E8%AE%BA%E6%96%87.pdf)
 
 
 
