@@ -33,6 +33,6 @@ _computationalphysics_N2013301020101_
 
 [15.期末论文](https://github.com/whuerZS/computationalphysics_N2013301020101/blob/1f7152425bf7c8ba3cef54a30459e1d7e42d8e2b/%E6%9C%9F%E6%9C%AB%E8%AE%BA%E6%96%87/%E6%9C%9F%E6%9C%AB%E8%AE%BA%E6%96%87.pdf)
 
-
+![](https://raw.githubusercontent.com/whuerZS/computationalphysics_N2013301020101/master/Chapter6/1.jpg)
 
 
